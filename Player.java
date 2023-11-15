@@ -5,7 +5,7 @@ import javax.swing.*;
 /**
  * Décrivez votre classe Player ici.
  *
- * @author Groupe 7
+ * @author Groupe 11
  * @version 16/11/2022
  */
 
